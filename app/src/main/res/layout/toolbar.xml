@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.appcompat.widget.Toolbar android:id="@+id/toolbar_top"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:minHeight="?attr/actionBarSize"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:padding="12dp"
+        style="@style/RippleStyleBlack"
+        android:foregroundGravity="center"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/ic_arrow_back"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:gravity="center_vertical|left|start" />
+
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/iconlogo"/>
+
+    <TextView
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="eTrash"/>
+
+</androidx.appcompat.widget.Toolbar>
+

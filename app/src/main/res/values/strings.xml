@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">eTrash</string>
+    <string name="section_1">Jenis Sampah Elektronik</string>
+    <string name="item_1">
+        Limbah elektronik dihasilkan dari perangkat listrik dari segala bentuk dan ukuran. Ini mungkin mengandung logam beracun seperti timbal, merkuri, kadmium, dan penghambat api brominasi.\n\n
+        Semuanya berbahaya bagi Si Kecil, anggota keluarga dan juga lingkungan sekitar rumah. Limbah listrik umumnya mengacu pada berbagai perangkat listrik.\n\n
+        Misalnya komputer dan komponen komputer, printer, DVD dan pemutar musik, TV, telepon, penyedot debu dan sebagainya.
+
+    </string>
+
+    <string name="section_2">Jenis Sampah Kaleng dan Logam</string>
+    <string name="item_2">
+        Sampah kaleng dan logam adalah jenis limbah yang tidak mudah terurai walaupun telah berumur ratusan atau bahkan ribuan tahun.\n\n
+        Limbah kaleng dan logam berasal dari besi, aluminium, tembaga, seng, kaleng makanan dan minuman, serta perabotan rumah sepi.\n\n
+        Jika didaur ulang, limbah-limbah tersebut dapat digunakan kembali. Sampah kaleng dan logam bisa dimanfaatkan menjadi vas bunga, aksesoris, tempat pensil, dll.
+    </string>
+
+    <string name="section_3">Jenis Sampah Plastik</string>
+    <string name="item_3">
+        Sampah plastik adalah semua barang bekas atau tidak terpakai yang materialnya diproduksi dari bahan kimia yang biasanya berasal dari minyak, gas alam, dan batu bara. Sebagian besar sampah plastik yang digunakan sehari-hari biasanya dipakai untuk pengemasan.\n\n
+        Hampir semua kemasan makanan dan pembungkus barang dan makanan menggunakan plastik. Kategori sampah plastik yang terbesar berasal dari kemasan dan wadah seperti; botol minuman, kemasan makanan, botol sampo, kantong belanja dan lainnya.
+    </string>
+
+    <string name="section_4">Jenis Sampah Keramik dan Kaca</string>
+    <string name="item_4">
+        Sampah keramik dan kaca adalah sampah sangat sulit terurai di dalam tanah, dan diperlukan waktu ratusan tahun untuk dapat terurai dan sangat berbahaya jika pecahan dari sampah tersebut melukai orang. Untuk itu perlu adanya pengolaan dan  pemanfaatan dari limbah kaca agar dapat mengurangi sampah kaca di lingkungan masyarakat.\n\n
+        Contoh sampah keramik dan kaca berasal dari piring, gelas, vas bunga, botol minuman, dll.
+    </string>
+
+    <string name="section_5">Jenis Sampah Kertas atau Kartu</string>
+    <string name="item_5">
+        Limbah kertas merupakan bahan kertas yang terbuat dari serat kayu sudah tidak terpakai atau tidak layak digunakan. Sampah kertas biasanya dapat  teruraian memakan waktu 3-6 bulan tergantung dengan kondisi tanahnya. Sampah kertas berasal terdiri dari kertas HVS, kertas tulis, kertas kraft, karton, kardus, koran, majalah, tisu, dsb.
+    </string>
+
+    <string name="section_6">Jenis Sampah Organik</string>
+    <string name="item_6">
+        Sampah organik adalah sampah yang berasal dari baha organik. Sifat sampah organik adalah tidak tahan lama dan cepat membusuk. Biasanya sampah jenis ini berasal dari makhluk hidup.\n\n
+        Contohnya adalah sayur-sayuran, buah-buah yang membusuk, sisa nasi, daun, dan sebagainya.
+    </string>
+
+    <string name="judul_tips_1">Memisahkan Sampah Sesuai jenis</string>
+    <string name="judul_tips_2">Melakukan Zero Waste</string>
+    <string name="judul_tips_3">Membuat Pupuk Dari Sampah Organik</string>
+    <string name="judul_tips_4">Membersihkan Tempat Sampah Setiap Hari</string>
+
+    <string name="tips_1">Cara pertama yang dapat kamu lakukan untuk pengelolaan sampah, dapat dimulai dengan memisahkan sampah menjadi 2 bagian, yakni organik dan anorganik. Kamu bisa mulai menyediakan 2 buah tempat sampah di rumah dan beri tanda untuk mempermudahnya. Cara seperti ini akan mempermudah kamu dalam memisahkan sampah rumah tangga yang dihasilkan setiap harinya.</string>
+    <string name="tips_2">Konsep zero waste yang mulai sering disuarakan agar manusia mulai peduli dengan alam dapat diwujudkan dengan menggunakan barang-barang yang tidak habis pakai. Salah satunya seperti mengganti plastik dengan tas belanja kain, mengganti styrofoam dengan kotak bekal, dan memakai botol untuk mengurangi pemakaian air minum dalam kemasan.</string>
+    <string name="tips_3">Pengelolaan sampah selanjutnya juga dapat dilakukan pada sampah organik. Kamu tentunya sudah tidak asing dengan teknik daur ulang, bukan? Daripada membiarkan sampah organik berbau busuk karena karena bakteri pengurai ada baiknya kamu melakukan daur ulang dengan menjadikannya sebagai pupuk kompos pada tanaman.</string>
+    <string name="tips_4">Tempat sampah di dalam rumah sangat penting untuk dijaga kebersihannya. Oleh sebab itu, kamu perlu menjaganya dengan selalu membuang sampah setiap hari dan memastikan tempatnya bersih agar tidak menimbulkan aroma tidak sedap di dalam ruangan. Kamu bisa mengalasi tempat sampah dengan plastik yang ramah lingkungan sehingga kebersihannya tetap terjaga setiap saat.</string>
+
+
+</resources>

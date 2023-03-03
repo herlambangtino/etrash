@@ -1,0 +1,67 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    compileSdk 31
+
+    defaultConfig {
+        applicationId "my.id.appskripsi.etrash"
+        minSdk 21
+        targetSdk 31
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+
+    // toast
+    implementation 'com.github.f0ris.sweetalert:library:1.5.1'
+    implementation 'com.wang.avi:library:2.1.3'
+
+    // volley
+    implementation 'org.apache.karaf.cellar:http:4.0.3'
+    implementation 'org.apache.karaf.http:http:3.0.8'
+    implementation 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+    implementation 'eu.the4thfloor.volley:com.android.volley:2015.05.28'
+
+    // material form
+    implementation 'com.rengwuxian.materialedittext:library:2.1.4'
+
+    // ripple library
+    implementation 'com.balysv:material-ripple:1.0.2'
+
+    // glide
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+
+    // gms
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
+
+    // accordion
+    implementation 'com.riyagayasen.android:easyaccordion:1.0.3'
+
+    // maps util
+    implementation 'com.google.maps.android:android-maps-utils:0.5+'
+
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+}
